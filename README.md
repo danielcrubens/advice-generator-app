@@ -15,8 +15,6 @@ Os seus utilizadores devem ser capazes de o fazer:
 - Ver os estados de flutuação para todos os elementos interativos na página
 - Gerar um novo conselho, clicando no ícone dos dados
 
-Traduzido com a versão gratuita do tradutor - www.DeepL.com/Translator
-
 ## :rocket:  Tecnologias utilizadas
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
